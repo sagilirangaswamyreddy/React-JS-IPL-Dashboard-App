@@ -1,0 +1,23 @@
+.recent-match-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e293b;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 20px;
+  text-align: center;
+  max-width: 300px;
+  min-width: 300px;
+  min-height: 380px;
+}
+.recent-match-img {
+  height: 100px;
+}
+.green {
+  color: #18ed66;
+}
+.red {
+  color: #e31a1a;
+}

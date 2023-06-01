@@ -1,0 +1,23 @@
+.bg-ipl-team-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+.banner-logo {
+  width: 90%;
+  object-fit: scale-down;
+}
+.latest-match-para {
+  font-weight: 500;
+  color: #ffffff;
+}
+.recent-matches-container {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
